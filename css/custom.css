@@ -1,0 +1,22 @@
+/*My custom CSS*/
+/*All custom modification will be added HERE*/
+.bg-primary
+{
+	background-color: rgb(75, 75, 40)!important;
+}
+
+.text-primary
+{
+	color: blue!important;
+}
+
+/*Change color for all links on website*/
+a
+{
+	color: rgb(18, 18, 19)!important;
+}
+
+.w-100
+{
+	text-align: center;
+}
