@@ -99,7 +99,7 @@ include "class/db.class.php";
                 class="dropdown-menu dropdown-menu-right"
                 aria-labelledby="userDropdown"
               >
-                <a class="dropdown-item" href="logout.php">Đăng xuất</a>
+                <a class="dropdown-item" href="logout.php">Log out</a>
               </div>
             </li>
           </ul>
